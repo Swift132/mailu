@@ -11,4 +11,4 @@ INITIAL_ADMIN_MODE=ifmissing
 
 # Credentials for Mailu to access the admin panel
 User: admin@xpto.net
-Password: password
+Password: admin
